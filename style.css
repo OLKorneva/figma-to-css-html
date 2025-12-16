@@ -1,0 +1,405 @@
+.heading_text {
+    font-family: Jost;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 35px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #000000;
+}
+
+.heading_container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.heading_list {
+    display: flex;
+    justify-content: center;
+}
+
+.heading_item {
+    margin-right: 38px;
+    list-style: none;
+}
+
+.heading_link {
+    text-decoration: none;
+    color: #000;
+    font-family: Jost;
+    font-weight: 300;
+    font-style: Light;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.heading_link:hover {
+    text-decoration: underline;
+    color: #8C9FE3;
+}
+
+.heading_button {
+    width: 281;
+    height: 50;
+    top: 31px;
+    left: 1035px;
+    border-radius: 10px;
+    opacity: 1;
+    background-color: #8C9FE3;
+    padding: 7px;
+}
+
+.heading_button:hover {
+    background-color: #3c4b81;
+}
+
+.heading_link_button {
+    font-family: Jost;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 17px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: white;
+    text-decoration: none;
+
+}
+
+.header_img_container {
+    margin-top: 56px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+.technic_header_title
+{
+    font-family: Jost;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 28px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+.technic_header_text {
+    font-family: Jost;
+    font-weight: 300;
+    font-style: Light;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+.technic_header{
+    text-align: center;
+    margin-top: 96px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 49px;
+
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    border: 1px solid #76767680;
+    background: #FFF;
+    width: 360px;
+    height: 400px;
+
+
+}
+
+.card_title {
+    font-family: Jost;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 26px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-bottom: 4px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card_description {
+    font-family: Jost;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #636363;
+    margin-top: o;
+    margin-bottom: 10px;
+    width: 248px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card_price {
+    margin-top: 20px;
+}
+
+.price_1 {
+    font-family: Jost;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #3E68FF;
+    margin-right: 19px;
+}
+
+
+.price_2 {
+    font-family: Jost;
+    font-weight: 300;
+    font-style: Light;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.card_button {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    width: 210px;
+    height: 35px;
+    top: 1278px;
+    left: 177px;
+    border-radius: 10px;
+    opacity: 1;
+    background: #9EB4FF;
+    align-items: center;
+}
+
+.card_button:hover {
+    background-color: #3c4b81;
+}
+
+
+.card_button_link {
+    color: #FFF;
+    text-decoration: none;
+    font-family: Jost;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 21px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.feedback_title {
+    font-family: Jost;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 35px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.feedback_header {
+    margin-top: 96px;
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+}
+
+.feedback_img {
+    text-align: center;
+}
+
+.feedback_name {
+    margin-top: 12px;
+    margin-bottom: 0;
+    font-family: Jost;
+    font-weight: 300;
+    font-style: Light;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.feedback_prof {
+    margin-top: 0;
+    font-family: Jost;
+    font-weight: 300;
+    font-style: Light;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color:#545454;
+}
+
+.feedback_button {
+    width: 50px;
+    height: 50px;
+}
+
+.feedback_text {
+    font-family: Jost;
+    font-weight: 300;
+    font-style: Light;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 1015px;
+}
+
+.feedback_main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.feedback_radio_but {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.question_title {
+    font-family: Jost;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 35px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.question_description {
+    font-family: Jost;
+    font-weight: 300;
+    font-style: Light;
+    font-size: 26px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.question {
+    margin-top: 96px;
+    text-align: center;
+}
+
+.question_form {
+    justify-self: center;
+    width: 700px;
+    height: 400px;
+    top: 2124px;
+    left: 370px;
+    border-width: 1px;
+    opacity: 1;
+    border-radius: 50px;
+    border: 1px solid #76767680
+}
+
+.in_1, .in_2, .in_3 {
+    margin-top: 27px;
+    justify-self: center;
+    width: 585px;
+    height: 64px;
+    top: 2151px;
+    left: 425px;
+    border-width: 1px;
+    opacity: 1;
+    border-radius: 30px;
+    border: 1px solid #BABABA;
+    display: block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0 30px;
+}
+
+.question_button {
+    margin-top: 47px;
+    width: 210px;
+    height: 35px;
+    top: 2442px;
+    left: 615px;
+    opacity: 1;
+    border-radius: 10px;
+    border: 1px solid #9EB4FF;
+    background: #9EB4FF;
+    font-family: Jost;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFF;
+}
+
+
+.question_button:hover {
+    background-color: #3c4b81;
+}
+
+.contacts_title {
+    font-family: Jost;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 35px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.contacts_description {
+    font-family: Jost;
+    font-weight: 300;
+    font-style: Light;
+    font-size: 26px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.contacts {
+    margin-top: 96px;
+    text-align: center;
+}
+
+.footer {
+    height: 227px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 122px;
+    margin-right: 125px;
+}
+
+.footer_logo {
+    font-family: Jost;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 35px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.footer_item {
+    font-family: Jost;
+    font-weight: 300;
+    font-style: Light;
+    font-size: 25px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    list-style: none;
+    margin-top: 10px;
+}
+
+.f_i {
+    color: #3E68FF;
+    font-weight: 400;
+}
